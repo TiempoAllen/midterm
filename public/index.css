@@ -1,0 +1,25 @@
+* {
+  font-family: monospace;
+  font-size: 1rem;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #202731;
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+}
+
+
+
+.app {
+  /* Set the width to 100% */
+  max-width: 500px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+}
